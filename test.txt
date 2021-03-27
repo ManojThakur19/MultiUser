@@ -5,6 +5,7 @@ asdfsda
 exchanged the user
 wrong user is added for test
 
+CHECK OF SSH CONNECTION
 this is added lately
 this is added for third time
 thi is added for fourth time
