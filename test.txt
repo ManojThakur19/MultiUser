@@ -27,3 +27,6 @@ twenty time
 21st time tried one more time for access
 
 this is added for the 22nd time
+
+
+FROM HERE WE WANT THE SSH KEY MECHANISM
